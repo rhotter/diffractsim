@@ -79,4 +79,5 @@ def plot_colors(
         interpolation="spline36",
         origin="lower",
     )
-    plt.show()
+
+    # plt.show()
